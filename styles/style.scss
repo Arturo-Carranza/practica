@@ -1,0 +1,19 @@
+$primary-color: #48e;
+
+
+
+
+/*Anidamiento*/
+header{
+   background-color: $primary-color;
+    height: 100px;
+    nav{
+        padding: 15px;
+        ul{
+            list-style: circle;
+            li{
+                text-decoration: underline;
+            }
+        }
+    }
+}

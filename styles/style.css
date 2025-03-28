@@ -1,19 +1,16 @@
-.swiper {
-    width: 100%;
-    height: 300px;
-  }
+/*Anidamiento*/
+header {
+  background-color: #48e;
+  height: 100px;
+}
+header nav {
+  padding: 15px;
+}
+header nav ul {
+  list-style: circle;
+}
+header nav ul li {
+  text-decoration: underline;
+}
 
-
-.grid{
-    height: 900px;
-    background-color: blueviolet;
-    display: grid;
-    
-}
-.g-col-6{
-    border: 3px solid white;
-    height: 100px;
-}
-.row{
-    height: 100px;
-}
+/*# sourceMappingURL=style.css.map */
