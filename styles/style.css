@@ -1,0 +1,19 @@
+.swiper {
+    width: 100%;
+    height: 300px;
+  }
+
+
+.grid{
+    height: 900px;
+    background-color: blueviolet;
+    display: grid;
+    
+}
+.g-col-6{
+    border: 3px solid white;
+    height: 100px;
+}
+.row{
+    height: 100px;
+}
